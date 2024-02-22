@@ -1,1 +1,3 @@
 等找到工作了有时间再继续写下去吧...
+
+[APP](https://github.com/Yanguan619/bgm-android2/releases/tag/release)
